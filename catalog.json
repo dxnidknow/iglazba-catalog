@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-09-03T03:00:00Z",
+  "releases": [
+    {
+      "id": "taiko-offside-2024",
+      "type": "album",
+      "title": "OFFSIDE",
+      "artist": "Taiko",
+      "year": 2024,
+      "genre": "Reggaeton / Trap / Electronic",
+      "label": "Taiko Music",
+      "coverUrl": "https://raw.githubusercontent.com/dxnidknow/iglazba-catalog/main/covers/taiko-offside-2024.jpg",
+      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/v1.0/Taiko-OFFSIDE-2024.zip",
+      "folderName": "Taiko - OFFSIDE (2024)",
+      "sizeMb": 207,
+      "format": "FLAC",
+      "description": "Album debut de estudio de Taiko.",
+      "tracks": [
+        { "number": 1, "title": "DE SERIE",   "duration": "2:33", "featured": [] },
+        { "number": 2, "title": "DESCARA",    "duration": "2:45", "featured": [] },
+        { "number": 3, "title": "SATA",       "duration": "2:50", "featured": [] },
+        { "number": 4, "title": "SEIS CINCO", "duration": "3:01", "featured": [] },
+        { "number": 5, "title": "INCENDIA",   "duration": "2:20", "featured": [] },
+        { "number": 6, "title": "CASTI",      "duration": "2:40", "featured": [] }
+      ]
+    }
+  ]
+}
