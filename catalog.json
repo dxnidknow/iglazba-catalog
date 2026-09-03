@@ -3,6 +3,137 @@
   "updatedAt": "2026-09-03T03:00:00Z",
   "releases": [
     {
+      "id": "1399f350",
+      "type": "album",
+      "title": "WASTELAND",
+      "artist": "Brent Faiyaz",
+      "year": 2022,
+      "genre": "Varios",
+      "label": "Independiente",
+      "coverUrl": "https://raw.githubusercontent.com/dxnidknow/iglazba-catalog/main/covers/brent-faiyaz-wasteland-2022.jpg",
+      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/v.1.0/WASTELAND.zip",
+      "folderName": "Brent Faiyaz - WASTELAND (2022)",
+      "sizeMb": 371,
+      "format": "FLAC",
+      "description": "Generado automáticamente.",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "VILLAIN’S THEME",
+          "duration": "2:21",
+          "featured": []
+        },
+        {
+          "number": 2,
+          "title": "LOOSE CHANGE",
+          "duration": "3:46",
+          "featured": []
+        },
+        {
+          "number": 3,
+          "title": "GRAVITY",
+          "duration": "3:34",
+          "featured": []
+        },
+        {
+          "number": 4,
+          "title": "HEAL YOUR HEART (INTERLUDE)",
+          "duration": "1:15",
+          "featured": []
+        },
+        {
+          "number": 5,
+          "title": "SKIT: EGOMANIAC",
+          "duration": "1:26",
+          "featured": []
+        },
+        {
+          "number": 6,
+          "title": "ALL MINE",
+          "duration": "3:36",
+          "featured": []
+        },
+        {
+          "number": 7,
+          "title": "PRICE OF FAME",
+          "duration": "6:19",
+          "featured": []
+        },
+        {
+          "number": 8,
+          "title": "GHETTO GATSBY",
+          "duration": "3:18",
+          "featured": []
+        },
+        {
+          "number": 9,
+          "title": "WASTING TIME",
+          "duration": "5:01",
+          "featured": []
+        },
+        {
+          "number": 10,
+          "title": "ROLLING STONES",
+          "duration": "2:42",
+          "featured": []
+        },
+        {
+          "number": 11,
+          "title": "FYTB",
+          "duration": "3:18",
+          "featured": []
+        },
+        {
+          "number": 12,
+          "title": "SKIT: OBLIVION",
+          "duration": "2:46",
+          "featured": []
+        },
+        {
+          "number": 13,
+          "title": "DEAD MAN WALKING",
+          "duration": "4:07",
+          "featured": []
+        },
+        {
+          "number": 14,
+          "title": "ADDICTIONS",
+          "duration": "3:12",
+          "featured": []
+        },
+        {
+          "number": 15,
+          "title": "ROLE MODEL",
+          "duration": "3:14",
+          "featured": []
+        },
+        {
+          "number": 16,
+          "title": "JACKIE BROWN",
+          "duration": "2:49",
+          "featured": []
+        },
+        {
+          "number": 17,
+          "title": "BAD LUCK",
+          "duration": "2:42",
+          "featured": []
+        },
+        {
+          "number": 18,
+          "title": "SKIT: WAKE UP CALL",
+          "duration": "5:05",
+          "featured": []
+        },
+        {
+          "number": 19,
+          "title": "ANGEL",
+          "duration": "3:39",
+          "featured": []
+        }
+      ]
+    },
+    {
       "id": "taiko-offside-2024",
       "type": "album",
       "title": "OFFSIDE",
@@ -17,12 +148,42 @@
       "format": "FLAC",
       "description": "Album debut de estudio de Taiko.",
       "tracks": [
-        { "number": 1, "title": "DE SERIE",   "duration": "2:33", "featured": [] },
-        { "number": 2, "title": "DESCARA",    "duration": "2:45", "featured": [] },
-        { "number": 3, "title": "SATA",       "duration": "2:50", "featured": [] },
-        { "number": 4, "title": "SEIS CINCO", "duration": "3:01", "featured": [] },
-        { "number": 5, "title": "INCENDIA",   "duration": "2:20", "featured": [] },
-        { "number": 6, "title": "CASTI",      "duration": "2:40", "featured": [] }
+        {
+          "number": 1,
+          "title": "DE SERIE",
+          "duration": "2:33",
+          "featured": []
+        },
+        {
+          "number": 2,
+          "title": "DESCARA",
+          "duration": "2:45",
+          "featured": []
+        },
+        {
+          "number": 3,
+          "title": "SATA",
+          "duration": "2:50",
+          "featured": []
+        },
+        {
+          "number": 4,
+          "title": "SEIS CINCO",
+          "duration": "3:01",
+          "featured": []
+        },
+        {
+          "number": 5,
+          "title": "INCENDIA",
+          "duration": "2:20",
+          "featured": []
+        },
+        {
+          "number": 6,
+          "title": "CASTI",
+          "duration": "2:40",
+          "featured": []
+        }
       ]
     }
   ]
