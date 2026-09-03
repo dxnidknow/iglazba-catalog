@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-03T03:00:00Z",
+  "updatedAt": "2026-09-03T05:27:00Z",
   "releases": [
     {
-      "id": "1399f350",
+      "id": "1bdb5257",
       "type": "album",
       "title": "WASTELAND",
       "artist": "Brent Faiyaz",
@@ -11,9 +11,9 @@
       "genre": "Varios",
       "label": "Independiente",
       "coverUrl": "https://raw.githubusercontent.com/dxnidknow/iglazba-catalog/main/covers/brent-faiyaz-wasteland-2022.jpg",
-      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/v.1.0/WASTELAND.zip",
+      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/wasteland-brentfaiyaz/WASTELAND.zip",
       "folderName": "Brent Faiyaz - WASTELAND (2022)",
-      "sizeMb": 371,
+      "sizeMb": 367,
       "format": "FLAC",
       "description": "Generado automáticamente.",
       "tracks": [
@@ -134,54 +134,120 @@
       ]
     },
     {
-      "id": "taiko-offside-2024",
+      "id": "47f901bd",
       "type": "album",
-      "title": "OFFSIDE",
-      "artist": "Taiko",
+      "title": "PRIMERA MUSA",
+      "artist": "Omar Courtz",
       "year": 2024,
-      "genre": "Reggaeton / Trap / Electronic",
-      "label": "Taiko Music",
-      "coverUrl": "https://raw.githubusercontent.com/dxnidknow/iglazba-catalog/main/covers/taiko-offside-2024.jpg",
-      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/v.1.0/Taiko-OFFSIDE-2024.zip",
-      "folderName": "Taiko - OFFSIDE (2024)",
-      "sizeMb": 207,
+      "genre": "Varios",
+      "label": "Independiente",
+      "coverUrl": "https://raw.githubusercontent.com/dxnidknow/iglazba-catalog/main/covers/omar-courtz-primera-musa-2024.jpg",
+      "downloadUrl": "https://github.com/dxnidknow/iglazba-catalog/releases/download/primeramusa-omarcourtz/PRIMERA.MUSA.zip",
+      "folderName": "Omar Courtz - PRIMERA MUSA (2024)",
+      "sizeMb": 682,
       "format": "FLAC",
-      "description": "Album debut de estudio de Taiko.",
+      "description": "Generado automáticamente.",
       "tracks": [
         {
           "number": 1,
-          "title": "DE SERIE",
-          "duration": "2:33",
+          "title": "I N T R O",
+          "duration": "2:44",
           "featured": []
         },
         {
           "number": 2,
-          "title": "DESCARA",
-          "duration": "2:45",
+          "title": "G O D D E S S",
+          "duration": "2:35",
           "featured": []
         },
         {
           "number": 3,
-          "title": "SATA",
-          "duration": "2:50",
+          "title": "H E A V Y",
+          "duration": "3:18",
           "featured": []
         },
         {
           "number": 4,
-          "title": "SEIS CINCO",
-          "duration": "3:01",
+          "title": "P I E N S O E N S E X X X O",
+          "duration": "3:33",
           "featured": []
         },
         {
           "number": 5,
-          "title": "INCENDIA",
-          "duration": "2:20",
+          "title": "UNA NOTi",
+          "duration": "3:20",
           "featured": []
         },
         {
           "number": 6,
-          "title": "CASTI",
-          "duration": "2:40",
+          "title": "M U S A E L E V Á",
+          "duration": "3:07",
+          "featured": []
+        },
+        {
+          "number": 7,
+          "title": "DRIPPEO KBRON",
+          "duration": "3:18",
+          "featured": []
+        },
+        {
+          "number": 8,
+          "title": "P I E N S A S E N M I",
+          "duration": "3:50",
+          "featured": []
+        },
+        {
+          "number": 9,
+          "title": "⁠P o l v o s Q u e N o S e O l v i d a n",
+          "duration": "3:04",
+          "featured": []
+        },
+        {
+          "number": 10,
+          "title": "I N T E R L U D I O",
+          "duration": "3:12",
+          "featured": []
+        },
+        {
+          "number": 11,
+          "title": "2 K 1 6",
+          "duration": "4:05",
+          "featured": []
+        },
+        {
+          "number": 12,
+          "title": "S I T E G U S T A N L A S G A T A S",
+          "duration": "2:53",
+          "featured": []
+        },
+        {
+          "number": 13,
+          "title": "A L O C A - T",
+          "duration": "2:58",
+          "featured": []
+        },
+        {
+          "number": 14,
+          "title": "S E X P L A Y L I S T 1",
+          "duration": "3:57",
+          "featured": []
+        },
+        {
+          "number": 15,
+          "title": "Q U E  V A S  H A C E R  H O Y ?",
+          "duration": "3:44",
+          "featured": []
+        },
+        {
+          "number": 16,
+          "title": "SERIO CON ESE Q",
+          "duration": "4:07",
+          "featured": []
+        },
+        {
+          "number": 17,
+          "title": "⁠LUCES DE COLORES",
+          "duration": "3:36",
           "featured": []
         }
       ]
